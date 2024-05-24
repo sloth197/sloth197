@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align=right><img src=https://cdn3.emoji.gg/emojis/7931_Ditto_Dance.gif width="100" height="100"></div>
-<br/>
+
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
