@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img src=[![southkoreaParrot](https://cdn3.emoji.gg/emojis/2127_southkoreaparrot.gif)](https://emoji.gg/emoji/2127_southkoreaparrot) width="50" height="50">
+<div align=center><img src=https://cdn3.emoji.gg/emojis/2127_southkoreaparrot.gif width="50" height="50"></div>
 
 <!--
 **sloth197/sloth197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
