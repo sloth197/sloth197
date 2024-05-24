@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src=>
+
 <!--
 **sloth197/sloth197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
