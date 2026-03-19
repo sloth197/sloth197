@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Thank you for visiting my profile. <br />
-Currently, I'm trying to become a backend developer.
+I'm trying to become a backend developer.
 
 <div align=right><img src=https://cdn3.emoji.gg/emojis/7931_Ditto_Dance.gif width="100" height="100"></div>
 
