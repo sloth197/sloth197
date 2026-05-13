@@ -1,7 +1,23 @@
 ## Hi there 👋
 
 Thank you for visiting my profile. <br />
-I'm trying to become a backend developer.
+I'm an entry-level C# / .NET developer.
+
+## Stack 💻
+
+- C# / .NET 8
+- WPF / MVVM
+- ASP.NET Core
+- Entity Framework
+- Java / Spring Boot
+- PostgreSQL / MySQL
+- Docker
+
+## Featured Projects 📁
+| [Portfolio Web](https://github.com/sloth197/portfolio-web) | A personal portfolio web service with project management, admin features, notices, authentication, and deployment experience. <br />| Next.js, TypeScript, Java, Spring Boot, PostgreSQL, Supabase, Vercel, Render | <br />
+| [ERP](https://github.com/sloth197/erp) |  A WPF-based ERP desktop application with ASP.NET Core Auth API, inventory transactions, role-based access control, email verification, audit logs, tests, and CI. <br />| C#, .NET 8, WPF, ASP.NET Core, EF Core, PostgreSQL, Docker, xUnit | <br />
+| [HybridSystem](https://github.com/sloth197/HybridSystem) | A manufacturing inspection system that combines image-based inspection, barcode recognition, and rule-based validation to simulate automated defect detection. <br />| C#, .NET 8, WPF, OpenCV, ONNX Runtime |
+
 
 <div align=right><img src=https://cdn3.emoji.gg/emojis/7931_Ditto_Dance.gif width="100" height="100"></div>
 
