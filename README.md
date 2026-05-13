@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm an entry-level C# / .NET developer. <br />
-I'm now building software projects that reflact those experiences.
+I'm now building software projects that reflect my previous work experience.
 
 <div align=right><img src=https://cdn3.emoji.gg/emojis/7931_Ditto_Dance.gif width="100" height="100"></div>
 
@@ -10,7 +10,7 @@ I'm now building software projects that reflact those experiences.
 - C# / .NET 8
 - WPF / MVVM
 - ASP.NET Core
-- Entity Framework
+- Entity Framework Core
 - Java / Spring Boot
 - PostgreSQL / MySQL
 - Docker
@@ -24,26 +24,12 @@ I'm now building software projects that reflact those experiences.
 | [Portfolio Web](https://github.com/sloth197/portfolio-web) | A personal portfolio web service with project management, admin features, notices, authentication, and deployment experience. | Next.js, TypeScript, Java, Spring Boot, PostgreSQL, Supabase, Vercel, Render |
 
 ## Background
-Before becoming a developer, I worked in manufacturing and semiconductor-related production environments. <br /> That experience helped me understand how operational systems, equipment issues, quality checks, process data are connected in real workplace. <br />
 
+Before becoming a developer, I worked in manufacturing and semiconductor-related production environments. <br />
+That experience helped me understand how operational systems, equipment issues, quality checks, and process data are connected in real workplaces. <br />
 
 ## Contact
+
 - Portfolio: https://xhbt.dev
 - E-mail: kuala290@gmail.com
-
-
-
-<!--
-**sloth197/sloth197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- E-mail: sloth197@naver.com
