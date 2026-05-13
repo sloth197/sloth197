@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-Thank you for visiting my profile. <br />
-I'm an entry-level C# / .NET developer.
+I'm an entry-level C# / .NET developer. <br />
+I'm now building software projects that reflact those experiences.
+
+<div align=right><img src=https://cdn3.emoji.gg/emojis/7931_Ditto_Dance.gif width="100" height="100"></div>
 
 ## Stack 💻
 
@@ -18,8 +20,13 @@ I'm an entry-level C# / .NET developer.
 | [ERP](https://github.com/sloth197/erp) |  A WPF-based ERP desktop application with ASP.NET Core Auth API, inventory transactions, role-based access control, email verification, audit logs, tests, and CI. <br />| C#, .NET 8, WPF, ASP.NET Core, EF Core, PostgreSQL, Docker, xUnit | <br />
 | [HybridSystem](https://github.com/sloth197/HybridSystem) | A manufacturing inspection system that combines image-based inspection, barcode recognition, and rule-based validation to simulate automated defect detection. <br />| C#, .NET 8, WPF, OpenCV, ONNX Runtime |
 
+## Background
+Before becoming a developer, I worked in manufacturing and semiconductor-related production environments. <br /> That experience helped me understand how operational systems, equipment issues, quality checks, process data are connected in real workplace. <br />
 
-<div align=right><img src=https://cdn3.emoji.gg/emojis/7931_Ditto_Dance.gif width="100" height="100"></div>
+
+## Contact
+- Portfolio: https://xhbt.dev
+- E-mail: kuala290@gmail.com
 
 
 
