@@ -15,10 +15,13 @@ I'm now building software projects that reflact those experiences.
 - PostgreSQL / MySQL
 - Docker
 
-## Featured Projects 📁
-| [Portfolio Web](https://github.com/sloth197/portfolio-web) | A personal portfolio web service with project management, admin features, notices, authentication, and deployment experience. <br />| Next.js, TypeScript, Java, Spring Boot, PostgreSQL, Supabase, Vercel, Render | <br />
-| [ERP](https://github.com/sloth197/erp) |  A WPF-based ERP desktop application with ASP.NET Core Auth API, inventory transactions, role-based access control, email verification, audit logs, tests, and CI. <br />| C#, .NET 8, WPF, ASP.NET Core, EF Core, PostgreSQL, Docker, xUnit | <br />
-| [HybridSystem](https://github.com/sloth197/HybridSystem) | A manufacturing inspection system that combines image-based inspection, barcode recognition, and rule-based validation to simulate automated defect detection. <br />| C#, .NET 8, WPF, OpenCV, ONNX Runtime |
+## Featured Projects
+
+| Project | Description | Tech Stack |
+| --- | --- | --- |
+| [ERP](https://github.com/sloth197/erp) | A WPF-based ERP desktop application with ASP.NET Core Auth API, inventory transactions, role-based access control, email verification, audit logs, tests, and CI. | C#, .NET 8, WPF, ASP.NET Core, EF Core, PostgreSQL, Docker, xUnit |
+| [HybridSystem](https://github.com/sloth197/HybridSystem) | A manufacturing inspection system that combines image-based inspection, barcode recognition, and rule-based validation to simulate automated defect detection. | C#, .NET 8, WPF, OpenCV, ONNX Runtime |
+| [Portfolio Web](https://github.com/sloth197/portfolio-web) | A personal portfolio web service with project management, admin features, notices, authentication, and deployment experience. | Next.js, TypeScript, Java, Spring Boot, PostgreSQL, Supabase, Vercel, Render |
 
 ## Background
 Before becoming a developer, I worked in manufacturing and semiconductor-related production environments. <br /> That experience helped me understand how operational systems, equipment issues, quality checks, process data are connected in real workplace. <br />
