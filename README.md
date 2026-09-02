@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an entry-level C# / .NET developer. <br /><br />
+I'm  C# / JAVA developer. <br /><br />
 I'm now building software projects that reflect my previous work experience.
 
 <div align=right><img src=https://cdn3.emoji.gg/emojis/7931_Ditto_Dance.gif width="100" height="100"></div>
